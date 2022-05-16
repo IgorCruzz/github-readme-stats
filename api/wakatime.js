@@ -8,7 +8,7 @@ const {
 } = require("../src/common/utils");
 const { isLocaleAvailable } = require("../src/translations");
 const { fetchWakatimeStats } = require("../src/fetchers/wakatime-fetcher");
-const wakatimeCard = require("../src/cards/wakatime-card");
+const wakatimeCard = require("../src/cards/wakatime-card");dwdwwdwdw
 
 module.exports = async (req, res) => {
   const {
